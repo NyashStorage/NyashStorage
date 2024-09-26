@@ -1,5 +1,6 @@
 ### 🧑 About me
+Hi there 👋
 
-Hi there 👋<br><br>
-I'm a Fullstack JavaScript and Minecraft developer.<br>
+I'm a Senior Backend TypeScript developer with Middle Frontend skills, interested in teaching people programming.
+
 This is an account with old repositories, to see more information about me - go to account [@NyashMyash99](https://github.com/NyashMyash99).
